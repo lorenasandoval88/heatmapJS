@@ -9,7 +9,7 @@ function ui(targetDiv = document.body) {
     }
     let div = document.createElement('div')
     targetDiv.appendChild(div)
-    div.id = 'prsCalcUI'
+    div.id = 'svg-container'
     // div.innerHTML = `
     // <p>
     // HeatmapJS
