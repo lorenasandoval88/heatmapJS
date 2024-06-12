@@ -15,7 +15,7 @@ function ui(targetDiv = document.body) {
     // HeatmapJS
     // </p>
     //  <hr>
-    `
+    //`
 
     var theSVG = d3.select('prsCalcUI')
     .append("svg")
